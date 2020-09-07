@@ -1,12 +1,12 @@
 
 #include "DxLib.h"
 
-#define GAME_WIDTH			800	//画面の横の大きさ
-#define GAME_HEIGHT			600	//画面の縦の大きさ
+#define GAME_WIDTH			832	//画面の横の大きさ
+#define GAME_HEIGHT			624	//画面の縦の大きさ
 #define GAME_COLOR			32	//画面のカラービット
 
 #define GAME_WINDOW_BAR		0	//タイトルバーはデフォルトにする
-#define GAME_WINDOW_NAME	"GAME TITLE"	//ウィンドウのタイトル
+#define GAME_WINDOW_NAME	"DXLib_Movie"	//ウィンドウのタイトル
 
 #define MOVIE_PATH          ".\\MOVIE\\Fireworks.mp4"
 
